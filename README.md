@@ -7,13 +7,7 @@ Welcome to my repository! Here I keep track of code, assignments, and personal p
 ## University Coursework (HU Berlin)
 Code and exercises from my **Monobachelor Informatik** modules:
 * **Einführung in die Theoretische Informatik** (Theoretical Computer Science)
-* **Lineare Algebra** (Linear Algebra)
+* **Diskrete Strukturen** 
 * **Java Programming** (Core algorithms, object-oriented concepts, simulations)
 
 ---
-
-## Personal Projects & Practice
-Experiments, side projects, and self-study materials:
-* **Java Simulations** (e.g., `BoardingSimulator.java` for overbooking probability models)
-* **Data & Backend Development** (Python, SQL, database design)
-* **Mobile & Web Apps** (React Native, Java)
